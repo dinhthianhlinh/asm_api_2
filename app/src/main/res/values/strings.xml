@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASM_API_LINH</string>
+    <string name="price_format">Price: %s</string>
+    <string name="name_format">Name: %s</string>
+    <string name="type_format">Type: %s</string>
+
+</resources>
